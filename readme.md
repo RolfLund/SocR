@@ -1,3 +1,3 @@
-# 4. semester R
+# SocR - Intro til R på Sociologi
 
-Her sker der sager, folkens!
+Repo til simpel introduktion til R på 1. semester
