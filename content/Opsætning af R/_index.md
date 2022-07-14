@@ -10,7 +10,7 @@ weight: 2
 
 ## Opsætning og installation af R
 
-__VIGTIGT__: At installere R er lidt mere besværligt end bare at trykke på nogle knapper. Følg derfor denne guide sådan at vi sikrer os, at der ikke er nogle uhensigtsmæssige installationer før vi har brug for at bruge R. Alle undervisere forventer, at i har installeret R til forelæsning 2.
+__VIGTIGT__: At installere R er lidt mere besværligt end bare at trykke på nogle knapper. Følg derfor denne guide sådan at vi sikrer os, at der ikke er nogle uhensigtsmæssige installationer før vi har brug for at bruge R.
 
 I denne menu er lavet en installationsguide for Windows og Mac. Hvis enkelte af jer bruger Chrome OS eller Linux antager vi, at i selv løser installation.
 
