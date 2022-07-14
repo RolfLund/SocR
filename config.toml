@@ -10,3 +10,6 @@ unsafe= true
 
 [params]
   themeVariant = "custom"
+  
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
